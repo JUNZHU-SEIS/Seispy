@@ -1,4 +1,4 @@
-<img alt="Seispy: A Python Toolkit for seismological applications." class="right" style="width: 20%" src="https://raw.githubusercontent.com/JUNZHU-SEIS/code/main/ustcblue.jpg"/>
+<img alt="Seispy: A Python Toolkit for seismological applications." class="right" style="width: 20%" src="https://raw.githubusercontent.com/JUNZHU-SEIS/code/main/ustcblue.jpg?token=ARSV5FTG3YSNMYUO7KJMAQ3AIB7DU"/>
 
 <!---
 
